@@ -2,6 +2,6 @@ __pycache__
 .env
 
 # proxy lists
-working.txt
+#working.txt
 hideme_proxy_export.csv
 prem_proxy.csv
