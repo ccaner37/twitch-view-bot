@@ -1,0 +1,9 @@
+requests
+requests[socks]
+lxml
+uuid
+streamlink
+pyfiglet
+python-dotenv
+click
+python-dateutil
